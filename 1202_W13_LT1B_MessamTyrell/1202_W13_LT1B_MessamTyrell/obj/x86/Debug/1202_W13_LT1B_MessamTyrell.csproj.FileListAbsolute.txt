@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2010\Projects\1202_W13_LT1B_MessamTyrell\1202_W13_LT1B_MessamTyrell\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\1202_W13_LT1B_MessamTyrell\1202_W13_LT1B_MessamTyrell\bin\Debug\1202_W13_LT1B_MessamTyrell.exe
+c:\users\administrator\documents\visual studio 2010\Projects\1202_W13_LT1B_MessamTyrell\1202_W13_LT1B_MessamTyrell\bin\Debug\1202_W13_LT1B_MessamTyrell.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\1202_W13_LT1B_MessamTyrell\1202_W13_LT1B_MessamTyrell\obj\x86\Debug\1202_W13_LT1B_MessamTyrell.exe
+c:\users\administrator\documents\visual studio 2010\Projects\1202_W13_LT1B_MessamTyrell\1202_W13_LT1B_MessamTyrell\obj\x86\Debug\1202_W13_LT1B_MessamTyrell.pdb
